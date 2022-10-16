@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="evolve_text">Task Manager</string>
+    <string name="end_text">Nice work!</string>
+
+</resources>
